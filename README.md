@@ -1,7 +1,7 @@
 __I am an Assistant Director ✨ at Simulations Plus Inc. I am also a freelance software developer with 12+ years of experience ✨__
 _www.obianom.com_ _www.rpkg.net_ _www.coursewhiz.org_
 
-Here are some things you may like to know about me:
+Here are some things you may like to know about my freelance work:
 
 - 🔭 I’m currently working on increasing the visibility of my projects 
 - 🌱 I’m currently learning vuejs and tailwindcss
