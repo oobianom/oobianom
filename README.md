@@ -1,16 +1,12 @@
-### Hi there 👋
+__I am an Assistant Director ✨ at Simulations Plus Inc. I am also a freelance software developer with 12+ years of experience ✨__
 
-<!--
-**oobianom/oobianom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some things you may like to know about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on increasing the visibility of my projects 
+- 🌱 I’m currently learning vuejs and tailwindcss
+- 👯 I’m looking to collaborate on any available projects
+- 🤔 I’m looking for help with building up examples at examples.rpkg.net
+- 💬 Ask me about my passion
+- 📫 How to reach me: LinkedIn
+- 😄 Pronouns: I think this is crap
+- ⚡ Fun fact: I just started investing in crypto
