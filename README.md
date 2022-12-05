@@ -14,4 +14,5 @@ Here are some things you may like to know about my freelance work:
 
 
 __r2social dev almost complete. coming to CRAN soon__
+
 ![](https://r2tooltip.obi.obianom.com/r2social.gif)
