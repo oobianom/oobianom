@@ -13,6 +13,6 @@ Here are some things you may like to know about my freelance work:
 - ⚡ Fun fact: I just started investing in crypto
 
 
-__[r2social](https://github.com/oobianom/r2social) development complete. Just published on [CRAN](https://cran.rstudio.com/web/packages/r2social/index.html). Check it out__
+__[r2social](https://github.com/oobianom/r2social) development complete. Just published on [CRAN](https://cran.rstudio.com/web/packages/r2social/index.html). Check it out.__
 
 ![](https://r2social.obi.obianom.com/r2social2.gif)
