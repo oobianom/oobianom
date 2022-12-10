@@ -18,4 +18,4 @@ Here are some things you may like to know about my freelance work:
 
 __Working on.. an [R2Rverse](https://github.com/oobianom/R2Rverse) package to install allow easy installation of all R2 R packages.__
 
-![https://coursewhiz.org]([https://r2social.obi.obianom.com/r2social2.gif](https://coursewhiz.org/mainsite/img/R2_logo2.png))
+![https://coursewhiz.org](https://coursewhiz.org/mainsite/img/R2_logo2.png)
