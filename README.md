@@ -12,7 +12,7 @@ Here are some things you may like to know about my freelance work:
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: I just started investing in crypto
 
-[r2social](https://github.com/oobianom/r2social) is now on [CRAN](https://cran.rstudio.com/web/packages/r2social/index.html)
+__[r2social](https://github.com/oobianom/r2social) is now on [CRAN](https://cran.rstudio.com/web/packages/r2social/index.html)__
 
 ![https://github.com/oobianom/r2social](https://r2social.obi.obianom.com/r2social2.gif)
 
