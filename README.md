@@ -3,6 +3,6 @@
 
 [![](https://img.icons8.com/cotton/64/youtube.png)](https://www.youtube.com/@R2Rpkg/videos)
 [![](https://img.icons8.com/cotton/64/twitter.png)](https://www.twitter.com/@R2Rpkg)
-[![](https://img.icons8.com/cotton/64/youtube.png)](https://www.youtube.com/@R2Rpkg/videos)
+[![](https://img.icons8.com/cotton/64/external-link--v1.png)](https://www.linkedin.com/in/oobianom)
 
 [Comprehensive R platform](https://rpkg.net) | [R2 R packages](https://coursewhiz.org)
