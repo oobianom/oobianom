@@ -1,4 +1,4 @@
-![](https://coursewhiz.org/mainsite/img/R2_logo2.png)
+[![](https://coursewhiz.org/mainsite/img/R2_logo2.png)](https://coursewhiz.org)
 ![](https://cdn.shinyappstore.com/img/rockybilly.regular_sas.webp)
 
 [![](https://scholar.rpkg.net/assets/S1p.png)](https://scholar.rpkg.net/aut/Obinna+Obianom)
