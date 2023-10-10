@@ -1,4 +1,4 @@
-![](https://obianom.com/introducemyself.svg)
+
 
 [![](https://coursewhiz.org/mainsite/img/R2_logo2.png)](https://coursewhiz.org)
 ![](https://cdn.shinyappstore.com/img/rockybilly.regular_sas.webp)
@@ -8,4 +8,4 @@
 [![](https://img.icons8.com/cotton/64/twitter.png)](https://www.twitter.com/@R2Rpkg)
 [![](https://rpkg.net/assets/comprehensive_rpkg.png)](https://rpkg.net) 
 
-__The future is R!__
+![](https://obianom.com/introducemyself.svg)
