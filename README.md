@@ -1,3 +1,5 @@
+![](https://obianom.com/introducemyself.svg)
+
 [![](https://coursewhiz.org/mainsite/img/R2_logo2.png)](https://coursewhiz.org)
 ![](https://cdn.shinyappstore.com/img/rockybilly.regular_sas.webp)
 
