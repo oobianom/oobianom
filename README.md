@@ -6,4 +6,4 @@
 [![](https://img.icons8.com/cotton/64/twitter.png)](https://www.twitter.com/@R2Rpkg)
 [![](https://rpkg.net/assets/comprehensive_rpkg.png)](https://rpkg.net) 
 
-![](https://obianom.com/introducemyself.svg)
+![](https://obianom.com/introducemyself2.svg)
