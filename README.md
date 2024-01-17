@@ -1,5 +1,4 @@
-![](https://obianom.com/introducemyself2.svg)
-
+<!--![](https://obianom.com/introducemyself2.svg)-->
 [![](https://coursewhiz.org/mainsite/img/R2_logo2.png)](https://coursewhiz.org)
 [![](https://cdn.shinyappstore.com/img/rockybilly.regular_sas.webp)](https://github.com/shinyappstore)
 
