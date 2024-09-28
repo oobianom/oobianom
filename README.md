@@ -1,7 +1,7 @@
-<!--![](https://obianom.com/introducemyself2.svg)-->
-[![](https://coursewhiz.org/mainsite/img/R2_logo2.png)](https://coursewhiz.org)
+![](https://obianom.com/introducemyself2.svg)
 [![](https://cdn.shinyappstore.com/img/rockybilly.regular_sas.webp)](https://github.com/shinyappstore)
 
+My pages:
 
 [![](https://scholar.rpkg.net/assets/S1p.png)](https://scholar.rpkg.net/aut/Obinna+Obianom)
 [![](https://rpkg.net/assets/comprehensive_rpkg.png)](https://rpkg.net) 
