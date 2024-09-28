@@ -1,5 +1,6 @@
-![](https://obianom.com/introducemyself2.svg)
+<!---![](https://obianom.com/introducemyself2.svg)-->
 [![](https://cdn.shinyappstore.com/img/rockybilly.regular_sas.webp)](https://github.com/shinyappstore)
+
 [![](https://rpkg.net/assets/comprehensive_rpkg.png)](https://rpkg.net)
 
 My pages:
