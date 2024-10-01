@@ -2,11 +2,13 @@
 [![](https://cdn.shinyappstore.com/img/rockybilly.regular_sas.webp)](https://github.com/shinyappstore)
 
 [![](https://rpkg.net/assets/comprehensive_rpkg.png)](https://rpkg.net)
-![image](https://github.com/user-attachments/assets/0507fe12-1330-4aed-b38a-cc71316ff926)
+[![{435AAA2E-FF1E-471F-A19F-4BD1D22993B3}](https://github.com/user-attachments/assets/dea52b5e-706d-4e35-bd6e-0732cec3bd03)](https://rscholar.com)
+
+
 
 My pages:
 
-[![](https://scholar.rpkg.net/assets/S1p.png)](https://scholar.rpkg.net/aut/Obinna+Obianom)
+[![](https://rscholar.com/assets/S1p.png)](https://scholar.rpkg.net/aut/Obinna+Obianom)
 [![](https://img.icons8.com/cotton/64/youtube.png)](https://www.youtube.com/@R2Rpkg/videos)
 [![](https://img.icons8.com/cotton/64/twitter.png)](https://www.twitter.com/@R2Rpkg)
 
