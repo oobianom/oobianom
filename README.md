@@ -2,6 +2,7 @@
 [![](https://cdn.shinyappstore.com/img/rockybilly.regular_sas.webp)](https://github.com/shinyappstore)
 
 [![](https://rpkg.net/assets/comprehensive_rpkg.png)](https://rpkg.net)
+![image](https://github.com/user-attachments/assets/0507fe12-1330-4aed-b38a-cc71316ff926)
 
 My pages:
 
