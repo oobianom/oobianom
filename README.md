@@ -8,7 +8,7 @@
 
 My pages:
 
-[![](https://rscholar.com/assets/S1p.png)](https://scholar.rpkg.net/aut/Obinna+Obianom)
+[![](https://rscholar.com/assets/S1p.png)](https://rscholar.com/aut/Obinna+Obianom)
 [![](https://img.icons8.com/cotton/64/youtube.png)](https://www.youtube.com/@R2Rpkg/videos)
 [![](https://img.icons8.com/cotton/64/twitter.png)](https://www.twitter.com/@R2Rpkg)
 
