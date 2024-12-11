@@ -1,4 +1,16 @@
 <!---![](https://obianom.com/introducemyself2.svg)-->
+
+
+         _      _                                                          
+        | |    (_)                                                         
+   ___  | |__   _   __ _  _ __    ___   _ __ ___      ___  ___   _ __ ___  
+  / _ \ | '_ \ | | / _` || '_ \  / _ \ | '_ ` _ \    / __|/ _ \ | '_ ` _ \ 
+ | (_) || |_) || || (_| || | | || (_) || | | | | | _| (__| (_) || | | | | |
+  \___/ |_.__/ |_| \__,_||_| |_| \___/ |_| |_| |_|(_)\___|\___/ |_| |_| |_|
+                                                                           
+                                                                           
+
+
 [![](https://cdn.shinyappstore.com/img/rockybilly.regular_sas.webp)](https://github.com/shinyappstore)
 
 [![](https://rpkg.net/assets/comprehensive_rpkg.png)](https://rpkg.net)
